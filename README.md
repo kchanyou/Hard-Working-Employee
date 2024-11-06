@@ -1,6 +1,7 @@
 # Hard-Working Employee (Fake AI Training Simulator)
-![imworking](https://github.com/user-attachments/assets/0e5ed87c-bfbc-4a13-a483-8dfc629d43d2)
 
+
+![imworking](https://github.com/user-attachments/assets/0e5ed87c-bfbc-4a13-a483-8dfc629d43d2)
 This script simulates a complex AI training process, generating realistic-looking logs without actually doing any training. 
 
 ## Features

@@ -12,4 +12,4 @@ This script simulates a complex AI training process, generating realistic-lookin
 
 ## Usage
 
-Run the script and enjoy the show.
+Run the script and enjoy the SHOW.
